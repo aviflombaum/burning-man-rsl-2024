@@ -2082,7 +2082,10 @@
             "bpar": true
           },
           {
-            "name": "ELI",
+            "name": "b2b"
+          },
+          {
+            "name": "            ELI",
             "bpar": true
           }
         ]
@@ -2814,7 +2817,7 @@
       "mv": false,
       "bpal": false,
       "lm": false,
-      "rr": false
+      "rr": true
     },
     "performances": [
       {
@@ -5583,7 +5586,7 @@
             "name": "b2b"
           },
           {
-            "name": "Cut Cuts",
+            "name": "          Cut Cuts",
             "bpar": true
           }
         ]
@@ -9256,7 +9259,7 @@
             "name": "b2b"
           },
           {
-            "name": "ELI",
+            "name": "        ELI      ",
             "bpar": true
           }
         ]
@@ -14547,7 +14550,7 @@
       "mv": false,
       "bpal": false,
       "lm": false,
-      "rr": false
+      "rr": true
     },
     "performances": [
       {
@@ -15212,7 +15215,7 @@
         "time": "9:00 PM",
         "artists": [
           {
-            "name": "Special Guest"
+            "name": "Angel Sanchez"
           }
         ]
       },
@@ -15234,7 +15237,7 @@
             "name": "b2b"
           },
           {
-            "name": "Shimza"
+            "name": "Shimza (Extended Set)"
           }
         ]
       },
@@ -16419,7 +16422,10 @@
         "time": "8:00 PM",
         "artists": [
           {
-            "name": "Heavy Naturals –"
+            "name": "Heavy Naturals"
+          },
+          {
+            "name": "b2b"
           },
           {
             "name": "DJ Kinki",
@@ -30907,7 +30913,7 @@
       "mv": false,
       "bpal": false,
       "lm": false,
-      "rr": false
+      "rr": true
     },
     "performances": [
       {
@@ -30939,6 +30945,9 @@
           },
           {
             "name": "Sinca"
+          },
+          {
+            "name": "Bearfoot"
           }
         ]
       }
@@ -30950,7 +30959,7 @@
     "end_date": "2024-08-31",
     "start_time": "06:00 AM",
     "end_time": "06:00 PM",
-    "theme": "Psychedelic Sunrise & BBQ"
+    "theme": "Tiki Safari & BBQ"
   },
   {
     "location_name": "Nova Heaven",
